@@ -18,13 +18,14 @@ es Eliminar reg?
 
 # 0xc53dc 26 12 Radio Enable
 en Radio Enable
-de Geraet aktiv.
+de Geraet aktiv
 es Radio activa
 
 # 0xc53f8 28 13 Radio Disable
 en Radio Disable
 de Geraet deaktiv
 es Radio desact.
+
 # 0xc5414 26 12 Edit Number:
 en Edit Number:
 de ID aendern:
@@ -32,7 +33,7 @@ es Editar numero:
 
 # 0xc5430 26 12 Text Message
 en Text Message
-de Text Nachricht
+de Nachricht
 es Mensaje de Texto
 
 # 0xc544c 26 12 Message Send
@@ -52,7 +53,7 @@ es Radio Destino
 
 # 0xc54a0 28 13 Not Available
 en Not Available
-de Nicht moeglich
+de Nicht Verfueg
 es No Disponible
 
 # 0xc54bc 28 13 Radio Enable:
@@ -67,9 +68,13 @@ de BatterieInf
 es Info Bateria
 
 # 0xc5510 28 13 Private Alert
+en Private Alert
+de Pers. Ruf
 es Alert Privada
 
 # 0xc552c 26 12 Enter Number
+en Enter Number
+de Numm. Eingeb
 es Intro Numero
 
 # 0xc5548 26 12 Radio Number
@@ -85,7 +90,7 @@ es Tono/Alertas
 
 # 0xc5580 26 12 Intro Screen
 en Intro Screen
-de Startnachricht
+de Startscreen
 es Pant. Inicio
 
 # 0xc559c 28 13 LED Indicator
@@ -94,6 +99,8 @@ de LED Anzeige
 es Indicador LED
 
 # 0xc55b8 26 12 Site Roaming
+en Site Roaming
+de Roaming
 es Roaming Local
 
 # 0xc55d4 26 12 Call Ringers
@@ -107,9 +114,13 @@ de Tastentoene
 es Tono Teclas
 
 # 0xc560c 28 13 Volume Offset
+en Volume Offset
+de Lautstaerke
 es Comp. Volumen
 
 # 0xc5628 26 12 New Password
+en New Password
+de Neues Kennw.
 es Nueva Password
 
 # 0xc5644 26 12 Eight Digits
@@ -118,17 +129,23 @@ de Acht Ziffern
 es Ocho Digitos
 
 # 0xc5660 26 12 Do Not Match
+en Do Not Match
+de Nicht Gleich
 es No coinciden
 
 # 0xc567c 26 12 Press OK and
+en Press OK and
+de OK druecken
 es Presiona OK y
 
 # 0xc5698 28 13 Missed Calls:
+en Missed Calls:
+de Verpasste Ruf
 es Perdidas
 
 # 0xc56b4 26 12 Setting Time
 en Setting Time
-de Uhr einstellen
+de Uhr einstel.
 es Configura Hora
 
 # 0xc56d0 26 12 Setting Date
@@ -142,18 +159,28 @@ de Kontaktliste
 es Lista Contactos
 
 # 0xc5708 28 13 Outgoing List
+en Outgoing List
+de Ausgehend
 es Lista Salientes
 
 # 0xc5724 28 13 Answered List
+en Answered List
+de Angenommen
 es Lista Respondidas
 
 # 0xc5740 26 12 Out Of Range
+en Out Of Range
+de Ausser Reic.
 es Fuera de Rango
 
 # 0xc575c 28 13 Program Radio
+en Program Radio
+de Fnkg. Progra.
 es Programar radio
 
 # 0xc5778 26 12 Edit Channel
+en Edit Channel
+de Kanal bearb.
 es Editar canal
 
 # 0xc5794 26 12 Rx Frequency
@@ -177,19 +204,23 @@ de RPT Zeitschl.
 es Slot Repetidor
 
 # 0xc5820 26 25 Digital Radio in USB mode
+en Digital Radio in USB mode
+de Funkgeraet in USB Modus
 es Radio Digital en modo USB
 
 # 0xc5b58 22 10 PC Program
+en PC Program
+de PC Program
 es Programacion PC
 
 # 0xc5b70 24 11 New Contact
 en New Contact
-de Neuer Kontakt
+de Neuer Kont.
 es Nuevo contacto
 
 # 0xc5b88 24 11 Manual Dial
 en Manual Dial
-de Manuelle Wahl
+de Waehlen
 es Marcado manual
 
 
@@ -199,9 +230,13 @@ de Rufalarm
 es Alerta Llamada
 
 # 0xc5bb8 24 11 View Number
+en View Number
+de Numm. sehen
 es Ver Numero
 
 # 0xc5bd0 24 11 Edit Number
+en Edit Number
+de Num. bearb.
 es Editar Numero
 
 # 0xc5be8 22 10 Ring Style
@@ -210,16 +245,22 @@ de Rufton
 es Tono Ring
 
 # 0xc5c00 24 11 Program Key
+en Program Key
+de Prog. Schl.
 
 # 0xc5c18 24 11 Radio Check
 en Radio Check
-de Geraete Chk
+de Geraet Chck
 es Check Radio
 
 # 0xc5c30 24 11 Remote Mon.
+en Remote Mon.
+de Monitor
 es Monitor Remoto
 
 # 0xc5c48 24 11 Select Tone
+en Select Tone
+de Ton auswae.
 es Elija Tono
 
 # 0xc5c60 22 10 Select Key
@@ -228,6 +269,8 @@ de Taste ausw
 es Elija Tecla
 
 # 0xc5c78 24 11 This Key is
+en This Key is
+de Der Knopf
 es Esta tecla es
 
 # 0xc5c90 22 10 OverWrite?
@@ -236,6 +279,8 @@ de Ersetzen?
 es Sobreescribo?
 
 # 0xc5ca8 22 10 Edit Name:
+en Edit Name
+de Namen aen
 es Editar Nombre:
 
 # 0xc5cc0 22 10 Quick Text
@@ -270,21 +315,31 @@ es Alerta Llamada
 
 # 0xc5d50 22 10 Read Later
 en Read Later
-de Spaeter zeigen
+de Spaet Les.
 es Leer despues
 
 # 0xc5d68 22 10 Radio Info
+en Radio Info
+de Funk. Info
 es Info Radio
 
 # 0xc5d80 22 10 Add Member
+en Add Member
+de Mitgl. hin
 es Anadir Miembro
 
 # 0xc5d98 24 11 Enter Name:
+en Enter Name
+de Namen eing
 es Inserte nombre:
 
 # 0xc5db0 22 10 Talkaround
+en Talkaround
+de Rundruf
 
 # 0xc5dc8 24 11 Keypad Lock
+en Keypad Lock
+de Tastensper.
 
 # 0xc5de0 22 10 Cable Type
 en Cable Type
@@ -292,6 +347,8 @@ de Kabeltyp
 es Tipo Cable
 
 # 0xc5df8 24 11 Passwd Lock
+en Passwd Lock
+de Passw Schlo
 
 # 0xc5e10 24 11 PrivateCall
 en PrivateCall
@@ -305,7 +362,7 @@ es Permiso PTT
 
 # 0xc5e40 22 10 Vol.Offset
 en Vol.Offset
-de Lautstaerke
+de Lautstaerk
 es Comp. Vol.
 
 # 0xc5e58 22 10 Ringer Off
@@ -330,14 +387,22 @@ de Eing. Rufe
 es Alarma Recibida
 
 # 0xc5ed0 22 10 View Later
+en View Later
+de Spae. anse
 es Ver Despues
 
 # 0xc5ee8 24 11 Scan on/off
+en Scan on/off
+de Scan an/aus
 
 # 0xc5f00 24 11 Missed List
+en Missed List
+de Verpasst
 es Lista Perdidas
 
 # 0xc5f18 22 10 Enter Name
+en Enter Name
+de Namen eing
 es Intro. Nombre
 
 # 0xc5f30 22 10 Color Code
@@ -387,18 +452,23 @@ es Editar nombre
 
 # 0xeda3c 18 8 Saved to
 en Saved to
-de Gespeichert
+de Gespeic.
 es Guardado a
 
 # 0xeda50 20 9 Available
 en Available
-de verfuegbar
+de verfuegb.
 es Disponible
 
 # 0xeda64 18 8 Selected
+en Selected
+de Ausgewae
 es Elegido
 
 # 0xeda78 18 8 All Call
+en All Call
+de Allg. An
+
 # 0xeda8c 20 9 My Number
 en My Number
 de Meine ID
@@ -406,13 +476,25 @@ es Mi Numero
 
 # 0xedaa0 18 8 Turn Off
 en Turn Off
-de Ausschal
+de Aussch.
 es Apagar
 
 # 0xedab4 18 8 ViewList
+en ViewList
+de Liste
+
 # 0xedac8 18 8 Priority
+en Priority
+de Priorit.
+
 # 0xedadc 20 9 Priority1
+en Priority1
+de Priorit.1
+
 # 0xedaf0 20 9 Priority2
+en Priority2
+de Priorit.2
+
 # 0xedb04 20 9 Backlight
 en Backlight
 de Beleuchtg
@@ -430,18 +512,19 @@ es Todos LEDs
 
 # 0xedb40 20 9 All Tones
 en All Tones
-de Alle Toene
+de Alle Toen
 es Todos Tonos
 
 # 0xedb54 18 8 Escalert
+
 # 0xedb68 20 9 Telemetry
 en Telemetry
-de Telemetrie
+de Telemetri
 es Telemetria
 
 # 0xedb7c 18 8 Tx Power
 en Tx Power
-de Tx Leistung
+de Tx Leis.
 es Potencia Tx
 
 # 0xedb90 18 8 Motorola
@@ -450,6 +533,8 @@ de Motorola
 es Motorola
 
 # 0xedba4 18 8 PC/audio
+en PC/audio
+de PC/audio
 
 # 0xedbb8 18 8 Password
 en Password
@@ -458,16 +543,22 @@ es Contrase
 
 # 0xedbcc 18 8 Required
 en Required
-de benoetigt
+de benoeti.
 es Requerido
 
 # 0xedbe0 18 8 Unlocked
+en Unlocked
+de Entsper.
 es Desbloqueado
 
 # 0xedbf4 18 8 Answered
+en Answered
+de Beantwor
 es Respondido
 
 # 0xedc08 18 8 Outgoing
+en Outgoing
+de Ausgega.
 es Saliente
 
 # 0xedc1c 20 9 Emergency
@@ -476,19 +567,41 @@ de Notfall
 es Emergencia
 
 # 0xedc30 18 8 Powering
+en Powering
+de Starten
+
 # 0xedc44 20 9 Source ID
+en Source ID
+de Quell-ID
+
 # 0xedc58 20 9 Source ID
+en Source ID
+de Quell-ID
+
 # 0xedc6c 18 8 Versions
+en Versions
+de Version.
+
 # 0xedc80 18 8 Disabled
+en Disabled
+de Deaktiv.
+
 # 0xedc94 18 8 Motorola
 en Motorola
 de Motorola
 es Motorola
 
 # 0xede24 17 16 uC/OS-II TmrLock
-# 0xede38 19 18 uC/OS-II TmrSignal
-# 0xede4c 19 18 AnyRoad Technology
+en TmrLock
+de TmrLock
 
+# 0xede38 19 18 uC/OS-II TmrSignal
+en TmrSignal
+de TmrSignal
+
+# 0xede4c 19 18 AnyRoad Technology
+en AnyRoad Technology
+de AnyRoad Technology
 
 # 0xee108 16 7 Contact
 en Contact
@@ -497,33 +610,81 @@ es Contacto
 
 # 0xee118 14 6 Drafts
 en Drafts
-de Entwurf
+de Entwur
 es Borrador
 
 # 0xee128 16 7 Message
 en Message
-de Nachricht
+de Nachri.
 es Mensaje
 
 # 0xee138 16 7 Cleared
+en Cleared
+de Geloes.
+
 # 0xee148 14 6 Delete
+en Delete
+de Loesc.
+
 # 0xee158 16 7 Deleted
+en Deleted
+de Geloes.
+
 # 0xee168 14 6 Failed
+en Failed
+de Fehler
+
 # 0xee178 14 6 Delete
+en Deleted
+de Geloes.
+
 # 0xee188 16 7 CP Ver.
 # 0xee198 16 7 Forward
 # 0xee1a8 14 6 Resend
 # 0xee1b8 16 7 Ignore?
+en Ignore
+de Ignor.
+
 # 0xee1c8 16 7 Turn On
+en Turn On
+de Anscha.
+
 # 0xee1d8 16 7 Current
+en Current
+de Aktuel.
+
 # 0xee1e8 16 7 Auto On
+en Auto On
+de Auto An
+
 # 0xee1f8 14 6 Keypad
+en Keypad
+de Tasten
+
 # 0xee208 14 6 Locked
+en Locked
+de Gespe.
+
 # 0xee218 16 7 English
+en English
+de Englis.
+
 # 0xee228 16 7 Changed
+en Changed
+de Geaend.
+
 # 0xee238 14 6 Missed
+en Missed
+de Verpa.
+
 # 0xee248 16 7 Invalid
+en Invalid
+de Unguel.
+
 # 0xee258 16 7 Squelch
+en Squelch
+de Rausch.
+
 # 0xee268 14 6 Normal
 # 0xee278 14 6 Number
 # 0xee288 14 6 Record
@@ -531,13 +692,35 @@ es Mensaje
 # 0xee2a8 14 6 Delete
 # 0xee2b8 16 7 Playing
 # 0xee2c8 16 7 Confirm
+en Confirm
+de Bestaet
+
 # 0xee2d8 14 6  Back
+en Back
+de Zur.
+
 # 0xee2e8 14 6 Always
+en Always
+de Immer
+
 # 0xee2f8 16 7 CH Mode
+en CH Mode
+de CH Mod.
+
 # 0xee308 16 7 MR Mode
+en MR Mode
+de MR Mod.
+
 # 0xee318 14 6 Manual
+en Manual
+
 # 0xee328 16 7 CTC/DCS
+en CTC/DCS
+de CTC/DCS
+
 # 0xee338 14 6 Volume
+en Volume
+de Lautst
 
 # 0xee348 16 7 Picture
 en Picture
@@ -558,32 +741,48 @@ es Imagen
 # 0xee728 14 13 DFU Interface
 
 # 0xeeb28 10 4 Zone
+en Zone
+de Zone
 es Zona
 
 # 0xeeb34 12 5 Saved
+en Saved
+de Gesp.
 es Guardado
 
 # 0xeeb40 12 5 Inbox
+en Inbox
+de Eing.
 es Entrada
 
 # 0xeeb4c 12 5 Write
+en Write
+de Schr.
 es Escribir
 
 # 0xeeb58 10 4 Send
+en Send
+de Send
 es Enviar
 
 # 0xeeb64 10 4 Save
+en Save
+de Spe.
 es Guardar
 
 # 0xeeb70 10 4 Sent
+en Sent
+de Gese
 es Enviado
 
 # 0xeeb7c 10 4 Full
 en Full
-de voll
+de Voll
 es Completo
 
 # 0xeeb88 10 4 List
+en List
+de List
 es Lista
 
 # 0xeeb94 12 5 Empty
@@ -592,14 +791,17 @@ de Leer
 es Vacio
 
 # 0xeeba0 10 4 Edit
+en Edit
 es Editar
 
 # 0xeebac 12 5 Read?
+en Read?
+de Lese?
 es Leer?
 
 # 0xeebb8 12 5 Reply
 en Reply
-de Antwort
+de Antw.
 es Responder
 
 
@@ -609,9 +811,13 @@ de Scan
 es Scan
 
 # 0xeebd0 10 4 None
+en None
+de Nic.
 es Ninguno
 
 # 0xeebdc 12 5 Power
+en Power
+de Leis.
 es Potencia
 
 # 0xeebe8 10 4 High
@@ -621,12 +827,12 @@ es Alta
 
 # 0xeebf4 10 4 Data
 en Data
-de Daten
+de Dat.
 es Datos
 
 # 0xeec00 12 5 Wrong
 en Wrong
-de Falsch
+de Fals.
 es Erroneo
 
 # 0xeec0c 12 5 Store
@@ -667,17 +873,17 @@ es Reloj
 
 # 0xeeccc 10 4 Date
 en Date
-de Datum
+de Datu
 es Fecha
 
 # 0xeecd8 10 4 Date
 en Date
-de Datum
+de Datu
 es Fecha
 
 # 0xeece4 10 4 Menu
 en Menu
-de Menue
+de Menu
 es Menu
 
 # 0xeecf0 10 4 Name
@@ -688,7 +894,7 @@ es Nombre
 # 0xeecfc 12 5 Clear
 # 0xeed08 10 4 Mode
 en Mode
-de Modus
+de Mod.
 es Modo
 
 # 0xeed14 12 5 T CTC
