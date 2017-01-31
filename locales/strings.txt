@@ -677,7 +677,7 @@ es Fecha
 
 # 0xeece4 10 4 Menu
 en Menu
-de Menue
+de Menu
 es Menu
 
 # 0xeecf0 10 4 Name
